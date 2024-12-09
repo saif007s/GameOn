@@ -1,0 +1,9 @@
+{
+  "name": "playoapp",
+  "displayName": "playoapp",
+  "extra": {
+    "eas": {
+      "projectId": "fea34257-efa0-4117-aa46-b1bf77abd092"
+    }
+  }
+}
